@@ -1,0 +1,9001 @@
+{
+  "type": "FeatureCollection",
+  "bbox": [
+    12.179572,
+    48.6177092,
+    150.0,
+    18.788599,
+    51.01965,
+    1413.0
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.391389,
+          50.068333
+        ]
+      },
+      "properties": {
+        "name": "Cheb",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 483.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.914167,
+          50.201667
+        ]
+      },
+      "properties": {
+        "name": "Karlovy Vary, Ol\u0161ov\u00e1 Vrata",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 603.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.678056,
+          49.669444
+        ]
+      },
+      "properties": {
+        "name": "P\u0159imda",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 742.76
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.62278,
+          50.54417
+        ]
+      },
+      "properties": {
+        "name": "Kopisty",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.1
+          }
+        },
+        "elevation": 240.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.32806,
+          50.37667
+        ]
+      },
+      "properties": {
+        "name": "Tu\u0161imice",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 321.71
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.378889,
+          49.764722
+        ]
+      },
+      "properties": {
+        "name": "Plze\u0148, Mikulka",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 359.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.615278,
+          49.068333
+        ]
+      },
+      "properties": {
+        "name": "Chur\u00e1\u0148ov",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 1117.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.93083,
+          50.555
+        ]
+      },
+      "properties": {
+        "name": "Mile\u0161ovka",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 830.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.838611,
+          49.467222
+        ]
+      },
+      "properties": {
+        "name": "Kocelovice",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 519.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.04111,
+          50.68333
+        ]
+      },
+      "properties": {
+        "name": "\u00dast\u00ed nad Labem, Ko\u010dkov",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 375.39
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.17,
+          50.45889
+        ]
+      },
+      "properties": {
+        "name": "Doksany",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 158.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.255556,
+          50.100278
+        ]
+      },
+      "properties": {
+        "name": "Praha, Ruzyn\u011b",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 364.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.427778,
+          50.069167
+        ]
+      },
+      "properties": {
+        "name": "Praha, Karlov",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 260.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.446944,
+          50.007778
+        ]
+      },
+      "properties": {
+        "name": "Praha, Libu\u0161",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 302.04
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.342222,
+          49.197778
+        ]
+      },
+      "properties": {
+        "name": "Temel\u00edn",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 500.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.469722,
+          48.951944
+        ]
+      },
+      "properties": {
+        "name": "\u010cesk\u00e9 Bud\u011bjovice,Ro\u017enov",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 394.6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.538056,
+          50.123333
+        ]
+      },
+      "properties": {
+        "name": "Praha, Kbely",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 284.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.02389,
+          50.76972
+        ]
+      },
+      "properties": {
+        "name": "Liberec",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 397.72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.352626,
+          50.439511
+        ]
+      },
+      "properties": {
+        "name": "Ji\u010d\u00edn",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 283.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.386389,
+          49.940833
+        ]
+      },
+      "properties": {
+        "name": "Chotusice, leti\u0161t\u011b",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 238.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.08046,
+          49.573504
+        ]
+      },
+      "properties": {
+        "name": "Ko\u0161etice, K\u0159e\u0161\u00edn, Kramol\u00edn",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 532.29
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.439167,
+          49.159167
+        ]
+      },
+      "properties": {
+        "name": "Kosteln\u00ed Myslov\u00e1",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 569.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.728889,
+          50.691944
+        ]
+      },
+      "properties": {
+        "name": "Pec pod Sn\u011b\u017ekou",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 816.3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.740273,
+          50.016111
+        ]
+      },
+      "properties": {
+        "name": "Pardubice, leti\u0161t\u011b",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 224.21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.763055,
+          49.582785
+        ]
+      },
+      "properties": {
+        "name": "P\u0159ibyslav, H\u0159i\u0161t\u011b",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 532.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.322222,
+          50.350278
+        ]
+      },
+      "properties": {
+        "name": "Polom, Sedlo\u0148ov",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 747.24
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.422222,
+          49.980278
+        ]
+      },
+      "properties": {
+        "name": "\u00dast\u00ed nad Orlic\u00ed",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 401.7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.034167,
+          49.735
+        ]
+      },
+      "properties": {
+        "name": "Svratouch",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 734.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.120556,
+          49.170833
+        ]
+      },
+      "properties": {
+        "name": "Sedlec",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 474.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.134444,
+          49.095556
+        ]
+      },
+      "properties": {
+        "name": "Dukovany",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 400.15
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.085278,
+          48.881111
+        ]
+      },
+      "properties": {
+        "name": "Kucha\u0159ovice",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 334.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.953333,
+          49.652222
+        ]
+      },
+      "properties": {
+        "name": "Luk\u00e1",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 510.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.688889,
+          49.153056
+        ]
+      },
+      "properties": {
+        "name": "Brno, Tu\u0159any",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 241.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.108333,
+          50.1875
+        ]
+      },
+      "properties": {
+        "name": "\u0160er\u00e1k",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 1328.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.134722,
+          49.4525
+        ]
+      },
+      "properties": {
+        "name": "Prost\u011bjov",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 214.75
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.541944,
+          49.777222
+        ]
+      },
+      "properties": {
+        "name": "\u010cerven\u00e1",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 748.13
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.57,
+          49.320556
+        ]
+      },
+      "properties": {
+        "name": "Hole\u0161ov",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 222.25
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.112778,
+          49.691944
+        ]
+      },
+      "properties": {
+        "name": "Mo\u0161nov",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 252.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4475,
+          49.546111
+        ]
+      },
+      "properties": {
+        "name": "Lys\u00e1 hora",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 1322.03
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.8286,
+          49.3653
+        ]
+      },
+      "properties": {
+        "name": "Ho\u0161\u0165\u00e1lkov\u00e1, Maru\u0161ka",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 664.1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.6136806,
+          50.6634733
+        ]
+      },
+      "properties": {
+        "name": "Str\u00e1\u017en\u00e9",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 791.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.655815,
+          50.654592
+        ]
+      },
+      "properties": {
+        "name": "Doln\u00ed Dv\u016fr, Rudolfov",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 560.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.7201375,
+          50.5400231
+        ]
+      },
+      "properties": {
+        "name": "Hostinn\u00e9",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 351.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.712563,
+          50.648678
+        ]
+      },
+      "properties": {
+        "name": "\u010cern\u00fd D\u016fl",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 715.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.82027,
+          50.745472
+        ]
+      },
+      "properties": {
+        "name": "Pomezn\u00ed boudy, Horn\u00ed Mal\u00e1 \u00dapa",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 1050.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.818973,
+          50.654577
+        ]
+      },
+      "properties": {
+        "name": "Horn\u00ed Mar\u0161ov",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 585.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.907098,
+          50.661205
+        ]
+      },
+      "properties": {
+        "name": "\u017dacl\u00e9\u0159",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 644.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.147362,
+          50.641075
+        ]
+      },
+      "properties": {
+        "name": "Teplice nad Metuj\u00ed Zdo\u0148ov",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 531.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.237511,
+          50.537805
+        ]
+      },
+      "properties": {
+        "name": "Police nad Metuj\u00ed",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 446.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.352829,
+          50.374902
+        ]
+      },
+      "properties": {
+        "name": "Ole\u0161nice, \u010cihalka",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 740.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.328611,
+          50.365556
+        ]
+      },
+      "properties": {
+        "name": "Ole\u0161nice, Vod\u00e1rna",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 670.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.061111,
+          50.363056
+        ]
+      },
+      "properties": {
+        "name": "\u010cesk\u00e1 Skalice, Rozko\u0161",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 290.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.478884,
+          50.271475
+        ]
+      },
+      "properties": {
+        "name": "Orlick\u00e9 Z\u00e1ho\u0159\u00ed - vod\u00e1rna",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 665.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.38829,
+          50.287003
+        ]
+      },
+      "properties": {
+        "name": "Luisino \u00fadol\u00ed, De\u0161tn\u00e9 v Orlick\u00fdch hor\u00e1ch",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 875.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.408505,
+          50.247678
+        ]
+      },
+      "properties": {
+        "name": "Zdobnice",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 671.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3875,
+          50.1375
+        ]
+      },
+      "properties": {
+        "name": "Slatina nad Zdobnic\u00ed",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 401.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.73475,
+          50.08289
+        ]
+      },
+      "properties": {
+        "name": "Kr\u00e1l\u00edky",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 538.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.667424,
+          50.026453
+        ]
+      },
+      "properties": {
+        "name": "Orli\u010dky",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 570.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.200903,
+          50.009544
+        ]
+      },
+      "properties": {
+        "name": "Choce\u0148",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 282.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.086691,
+          50.105254
+        ]
+      },
+      "properties": {
+        "name": "Borohr\u00e1dek",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 254.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.209938,
+          50.234904
+        ]
+      },
+      "properties": {
+        "name": "B\u00edl\u00fd \u00dajezd, Hro\u0161ka",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 319.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.041312,
+          50.282295
+        ]
+      },
+      "properties": {
+        "name": "\u010cesk\u00e9 Mezi\u0159\u00ed\u010d\u00ed",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 255.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.190554,
+          49.773006
+        ]
+      },
+      "properties": {
+        "name": "Lubn\u00e1",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 560.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.19522,
+          49.916667
+        ]
+      },
+      "properties": {
+        "name": "Hru\u0161ov\u00e1",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 291.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1475,
+          49.850201
+        ]
+      },
+      "properties": {
+        "name": "Nov\u00e9 Hrady",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 400.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.996141,
+          49.834881
+        ]
+      },
+      "properties": {
+        "name": "Skute\u010d",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 457.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.909774,
+          49.962057
+        ]
+      },
+      "properties": {
+        "name": "Hroch\u016fv T\u00fdnec",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 241.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.673986,
+          49.946639
+        ]
+      },
+      "properties": {
+        "name": "He\u0159man\u016fv M\u011bstec",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 275.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.844811,
+          49.688077
+        ]
+      },
+      "properties": {
+        "name": "Krucemburk",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 559.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.284988,
+          50.03844
+        ]
+      },
+      "properties": {
+        "name": "Kon\u00e1rovice",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 209.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.329835,
+          49.78686
+        ]
+      },
+      "properties": {
+        "name": "Zb\u00fd\u0161ov, Dobrov\u00edtov",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 490.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.234033,
+          49.866846
+        ]
+      },
+      "properties": {
+        "name": "Bahno",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 420.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.393348,
+          50.379018
+        ]
+      },
+      "properties": {
+        "name": "Slatiny, Mil\u00ed\u010deves",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 254.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.214447,
+          50.370822
+        ]
+      },
+      "properties": {
+        "name": "Lib\u00e1\u0148",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 240.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.201165,
+          50.248346
+        ]
+      },
+      "properties": {
+        "name": "Dymokury",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 208.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.80731,
+          50.044659
+        ]
+      },
+      "properties": {
+        "name": "Mrzky",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 260.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.961299,
+          50.181641
+        ]
+      },
+      "properties": {
+        "name": "Kostomlaty nad Labem",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 185.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.731428,
+          50.175931
+        ]
+      },
+      "properties": {
+        "name": "K\u00e1ran\u00fd",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 170.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.414138,
+          50.651199
+        ]
+      },
+      "properties": {
+        "name": "Roprachtice",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 550.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.550286,
+          50.55272
+        ]
+      },
+      "properties": {
+        "name": "Studenec",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 532.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.379375,
+          50.538491
+        ]
+      },
+      "properties": {
+        "name": "Lomnice nad Popelkou",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 485.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.315007,
+          50.613006
+        ]
+      },
+      "properties": {
+        "name": "Semily",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 370.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.22859,
+          50.778185
+        ]
+      },
+      "properties": {
+        "name": "Josef\u016fv D\u016fl",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 623.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.408523,
+          50.682981
+        ]
+      },
+      "properties": {
+        "name": "Vysok\u00e9 nad Jizerou",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 695.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0404,
+          50.5222
+        ]
+      },
+      "properties": {
+        "name": "Bose\u0148, Mu\u017esk\u00fd",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 382.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.141737,
+          50.437897
+        ]
+      },
+      "properties": {
+        "name": "Doln\u00ed Bousov",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 244.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.779398,
+          50.444653
+        ]
+      },
+      "properties": {
+        "name": "Katusice",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 312.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.63399,
+          50.44061
+        ]
+      },
+      "properties": {
+        "name": "M\u0161eno",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 340.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.661958,
+          48.99055
+        ]
+      },
+      "properties": {
+        "name": "Borov\u00e1 Lada",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 898.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7206847,
+          48.9054436
+        ]
+      },
+      "properties": {
+        "name": "Str\u00e1\u017en\u00fd",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 811.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.896111,
+          48.901667
+        ]
+      },
+      "properties": {
+        "name": "Volary",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 749.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8896103,
+          48.8032344
+        ]
+      },
+      "properties": {
+        "name": "Jelen\u00ed, Nov\u00e1 Pec",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 810.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1059625,
+          48.9035069
+        ]
+      },
+      "properties": {
+        "name": "Kti\u0161, Tisovka",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 758.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3305394,
+          48.9075594
+        ]
+      },
+      "properties": {
+        "name": "K\u0159em\u017ee, M\u0159\u00ed\u010d",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 524.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2846839,
+          48.863975
+        ]
+      },
+      "properties": {
+        "name": "Kle\u0165",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 1062.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4604581,
+          48.6583611
+        ]
+      },
+      "properties": {
+        "name": "Doln\u00ed Dvo\u0159i\u0161t\u011b",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 606.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.723333,
+          48.72333333
+        ]
+      },
+      "properties": {
+        "name": "Star\u00e9 Hut\u011b, Hojn\u00e1 Voda",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 821.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.6489614,
+          48.6701047
+        ]
+      },
+      "properties": {
+        "name": "Pohorsk\u00e1 Ves",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 773.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4535261,
+          48.7925114
+        ]
+      },
+      "properties": {
+        "name": "Net\u0159ebice",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 616.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.6372439,
+          48.8455767
+        ]
+      },
+      "properties": {
+        "name": "Trhov\u00e9 Sviny",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 468.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4334833,
+          49.0536578
+        ]
+      },
+      "properties": {
+        "name": "Hlubok\u00e1 nad Vltavou",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 410.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0986103,
+          49.0190528
+        ]
+      },
+      "properties": {
+        "name": "Nov\u00e1 Byst\u0159ice",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 583.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.9351097,
+          48.9581153
+        ]
+      },
+      "properties": {
+        "name": "Chlum u T\u0159ebon\u011b",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 462.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0633,
+          49.2831
+        ]
+      },
+      "properties": {
+        "name": "Kamenice nad Lipou, Vodn\u00e1",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 557.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2067203,
+          49.1630636
+        ]
+      },
+      "properties": {
+        "name": "Strmilov",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 582.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.9129792,
+          49.0669992
+        ]
+      },
+      "properties": {
+        "name": "Str\u00e1\u017e nad Ne\u017e\u00e1rkou",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 478.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5099342,
+          49.4362272
+        ]
+      },
+      "properties": {
+        "name": "Ol\u0161\u00ed",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 495.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3893392,
+          49.3662453
+        ]
+      },
+      "properties": {
+        "name": "Bernartice",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 485.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5197133,
+          49.0298283
+        ]
+      },
+      "properties": {
+        "name": "Filipova Hu\u0165",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 1110.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3786,
+          49.1069
+        ]
+      },
+      "properties": {
+        "name": "Pr\u00e1\u0161ily",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 883.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.374402,
+          49.22629
+        ]
+      },
+      "properties": {
+        "name": "Z\u00e1my\u0161l",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 800.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.301694,
+          49.264136
+        ]
+      },
+      "properties": {
+        "name": "\u010cachrov",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 729.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6413978,
+          49.1779189
+        ]
+      },
+      "properties": {
+        "name": "Stra\u0161\u00edn",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 637.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5486,
+          49.3347
+        ]
+      },
+      "properties": {
+        "name": "Nal\u017eovsk\u00e9 Hory",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 495.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7176939,
+          49.4031031
+        ]
+      },
+      "properties": {
+        "name": "Chanovice",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 533.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.771537,
+          48.986168
+        ]
+      },
+      "properties": {
+        "name": "Kubova Hu\u0165",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 997.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7824278,
+          49.0657822
+        ]
+      },
+      "properties": {
+        "name": "Vimperk",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 637.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7263994,
+          49.1352075
+        ]
+      },
+      "properties": {
+        "name": "Vacov, Peckov",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 738.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8612525,
+          49.1854894
+        ]
+      },
+      "properties": {
+        "name": "Volyn\u011b, Niho\u0161ovice",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 448.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0736942,
+          49.2678992
+        ]
+      },
+      "properties": {
+        "name": "Kest\u0159any",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 381.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9416925,
+          49.3756828
+        ]
+      },
+      "properties": {
+        "name": "Sedlice",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 511.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9691961,
+          48.92618
+        ]
+      },
+      "properties": {
+        "name": "Zbytiny",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 792.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2682417,
+          49.2497158
+        ]
+      },
+      "properties": {
+        "name": "Paseky",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 482.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7266981,
+          49.5023517
+        ]
+      },
+      "properties": {
+        "name": "Rado\u0161ice, Mlad\u00fd Smolivec",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 552.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9461,
+          49.5542
+        ]
+      },
+      "properties": {
+        "name": "B\u0159eznice",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 493.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0730208,
+          49.4849553
+        ]
+      },
+      "properties": {
+        "name": "Krsice",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 430.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1683553,
+          49.5033544
+        ]
+      },
+      "properties": {
+        "name": "Orl\u00edk nad Vltavou",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 431.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.212691,
+          49.819169
+        ]
+      },
+      "properties": {
+        "name": "Voznice",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 385.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.936455,
+          49.597833
+        ]
+      },
+      "properties": {
+        "name": "\u017d\u010f\u00e1r nad S\u00e1zavou, Str\u017eanov",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 605.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.590799,
+          49.501462
+        ]
+      },
+      "properties": {
+        "name": "\u0160toky",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 530.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.486748,
+          49.751989
+        ]
+      },
+      "properties": {
+        "name": "Habry",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 470.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.08814,
+          49.76873
+        ]
+      },
+      "properties": {
+        "name": "\u0158end\u011bjov, Nov\u00fd Samechov",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 444.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.02348,
+          49.46355
+        ]
+      },
+      "properties": {
+        "name": "Pacov",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 494.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.808259,
+          49.537459
+        ]
+      },
+      "properties": {
+        "name": "Mlad\u00e1 Vo\u017eice",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 435.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.894545,
+          49.691749
+        ]
+      },
+      "properties": {
+        "name": "Vla\u0161im",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 415.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.40636,
+          49.9886
+        ]
+      },
+      "properties": {
+        "name": "Praha, Komo\u0159any",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 213.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.623135,
+          49.798357
+        ]
+      },
+      "properties": {
+        "name": "Tachov",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 487.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.735097,
+          49.870952
+        ]
+      },
+      "properties": {
+        "name": "Plan\u00e1",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 505.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.878357,
+          49.639765
+        ]
+      },
+      "properties": {
+        "name": "Star\u00e9 Sedlo, Darmy\u0161l",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 448.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.143405,
+          49.759189
+        ]
+      },
+      "properties": {
+        "name": "\u00dalice",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 428.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.741932,
+          49.490754
+        ]
+      },
+      "properties": {
+        "name": "Pivo\u0148",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 619.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.943746,
+          49.528213
+        ]
+      },
+      "properties": {
+        "name": "Hor\u0161ovsk\u00fd T\u00fdn",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 374.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.166901,
+          49.639696
+        ]
+      },
+      "properties": {
+        "name": "Stod",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 337.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.176262,
+          49.465405
+        ]
+      },
+      "properties": {
+        "name": "Chudenice",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 490.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.493545,
+          49.402384
+        ]
+      },
+      "properties": {
+        "name": "Lov\u010dice, Kvasetice",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 597.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.727867,
+          49.623944
+        ]
+      },
+      "properties": {
+        "name": "Borovno, M\u00ed\u0161ov",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 651.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.528521,
+          49.635765
+        ]
+      },
+      "properties": {
+        "name": "Nezv\u011bstice",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 371.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.753217,
+          49.742781
+        ]
+      },
+      "properties": {
+        "name": "Stra\u0161ice",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 526.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.602353,
+          49.751692
+        ]
+      },
+      "properties": {
+        "name": "Rokycany",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 397.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.160412,
+          50.09822
+        ]
+      },
+      "properties": {
+        "name": "\u017dlutice",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 569.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.054363,
+          49.993664
+        ]
+      },
+      "properties": {
+        "name": "Bezv\u011brov",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 699.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5451,
+          49.916487
+        ]
+      },
+      "properties": {
+        "name": "Libl\u00edn",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 299.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.707071,
+          49.901862
+        ]
+      },
+      "properties": {
+        "name": "Tere\u0161ov",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 402.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.861277,
+          49.990212
+        ]
+      },
+      "properties": {
+        "name": "Karlova Ves",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 405.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.738651,
+          50.099245
+        ]
+      },
+      "properties": {
+        "name": "Rakovn\u00edk",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 313.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.672193,
+          50.214902
+        ]
+      },
+      "properties": {
+        "name": "Kounov",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 418.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.935,
+          50.0614
+        ]
+      },
+      "properties": {
+        "name": "Zbe\u010dno",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 262.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.872083,
+          49.798186
+        ]
+      },
+      "properties": {
+        "name": "Hvozdec, Mrtn\u00edk",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 425.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.96477,
+          49.96121
+        ]
+      },
+      "properties": {
+        "name": "Hudlice",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 449.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.561121,
+          50.007829
+        ]
+      },
+      "properties": {
+        "name": "Pr\u016fhonice",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 312.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.46186,
+          50.07584
+        ]
+      },
+      "properties": {
+        "name": "Praha, Vinohrady - Flora",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 280.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.352689,
+          50.080843
+        ]
+      },
+      "properties": {
+        "name": "Praha, B\u0159evnov",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 355.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.086873,
+          50.283586
+        ]
+      },
+      "properties": {
+        "name": "Zlonice",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 231.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.090481,
+          50.236779
+        ]
+      },
+      "properties": {
+        "name": "Slan\u00fd",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 307.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.400238,
+          50.256881
+        ]
+      },
+      "properties": {
+        "name": "Luby",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 524.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.62322,
+          50.05
+        ]
+      },
+      "properties": {
+        "name": "Kyn\u017evart, Lazy",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 845.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.639266,
+          50.176985
+        ]
+      },
+      "properties": {
+        "name": "Sokolov",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 407.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.615467,
+          50.37246
+        ]
+      },
+      "properties": {
+        "name": "P\u0159ebuz",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 904.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.715486,
+          50.335684
+        ]
+      },
+      "properties": {
+        "name": "Nejdek",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 609.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.836679,
+          50.0824
+        ]
+      },
+      "properties": {
+        "name": "Be\u010dov nad Teplou",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 529.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.816447,
+          50.367742
+        ]
+      },
+      "properties": {
+        "name": "Abertamy",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 893.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.051677,
+          50.338823
+        ]
+      },
+      "properties": {
+        "name": "Str\u00e1\u017e nad Oh\u0159\u00ed",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 330.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2828,
+          50.2608
+        ]
+      },
+      "properties": {
+        "name": "Ma\u0161\u0165ov",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 373.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.58406,
+          50.20283
+        ]
+      },
+      "properties": {
+        "name": "Velk\u00e1 \u010cernoc",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 329.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.732,
+          50.292153
+        ]
+      },
+      "properties": {
+        "name": "H\u0159ivice",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 270.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.04575,
+          50.39983
+        ]
+      },
+      "properties": {
+        "name": "Libochovice, Poplze",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 165.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.255,
+          50.36389
+        ]
+      },
+      "properties": {
+        "name": "Stra\u0161kov-Vodochody",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 214.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.94231,
+          50.53642
+        ]
+      },
+      "properties": {
+        "name": "Mile\u0161ov",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 348.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.179572,
+          50.220602
+        ]
+      },
+      "properties": {
+        "name": "A\u0161",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 675.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.55153,
+          50.63875
+        ]
+      },
+      "properties": {
+        "name": "Kl\u00edny",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 807.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.79031,
+          50.47908
+        ]
+      },
+      "properties": {
+        "name": "M\u011brunice, \u017dichov",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 367.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.71953,
+          50.654
+        ]
+      },
+      "properties": {
+        "name": "Hrob, K\u0159i\u017eanov",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 360.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.80214,
+          50.68056
+        ]
+      },
+      "properties": {
+        "name": "Dub\u00ed",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 402.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.20433,
+          50.69783
+        ]
+      },
+      "properties": {
+        "name": "D\u011b\u010d\u00edn, T\u011bchlovice",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 150.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.02167,
+          50.78694
+        ]
+      },
+      "properties": {
+        "name": "Tis\u00e1",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 556.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.907056,
+          50.738722
+        ]
+      },
+      "properties": {
+        "name": "K\u0159i\u017eany",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 395.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.72494,
+          50.65975
+        ]
+      },
+      "properties": {
+        "name": "Mimo\u0148",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 278.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.676,
+          50.80967
+        ]
+      },
+      "properties": {
+        "name": "Ma\u0159enice",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 395.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.55719,
+          50.75
+        ]
+      },
+      "properties": {
+        "name": "Nov\u00fd Bor",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 358.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.30492,
+          50.65789
+        ]
+      },
+      "properties": {
+        "name": "Verne\u0159ice",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 507.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.51467,
+          50.61428
+        ]
+      },
+      "properties": {
+        "name": "Zahr\u00e1dky",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 270.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.403417,
+          50.708083
+        ]
+      },
+      "properties": {
+        "name": "\u017dandov, Horn\u00ed Police",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 275.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.597466,
+          50.317449
+        ]
+      },
+      "properties": {
+        "name": "\u0160indelov\u00e1, Obora",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 589.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.502849,
+          49.968079
+        ]
+      },
+      "properties": {
+        "name": "Dyle\u0148",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 939.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.695966,
+          49.990619
+        ]
+      },
+      "properties": {
+        "name": "Mari\u00e1nsk\u00e9 L\u00e1zn\u011b, vod\u00e1rna",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 696.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.878151,
+          50.227229
+        ]
+      },
+      "properties": {
+        "name": "Karlovy Vary",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 377.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.920958,
+          50.071286
+        ]
+      },
+      "properties": {
+        "name": "Kr\u00e1sn\u00e9 \u00dadol\u00ed",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 650.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.975956,
+          49.884787
+        ]
+      },
+      "properties": {
+        "name": "Konstantinovy L\u00e1zn\u011b",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 530.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.967957,
+          50.3948
+        ]
+      },
+      "properties": {
+        "name": "Kl\u00ednovec",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 1236.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.922385,
+          49.444716
+        ]
+      },
+      "properties": {
+        "name": "Doma\u017elice",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 458.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.13256,
+          50.42936
+        ]
+      },
+      "properties": {
+        "name": "M\u011bd\u011bnec",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 828.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.48561,
+          50.59244
+        ]
+      },
+      "properties": {
+        "name": "Nov\u00e1 Ves v Hor\u00e1ch",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 725.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.47694,
+          50.17378
+        ]
+      },
+      "properties": {
+        "name": "Strojetice",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 372.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.494007,
+          49.981823
+        ]
+      },
+      "properties": {
+        "name": "Kralovice",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 449.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.57133,
+          50.148529
+        ]
+      },
+      "properties": {
+        "name": "He\u0159manov",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 407.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.386411,
+          49.788378
+        ]
+      },
+      "properties": {
+        "name": "Plze\u0148, Bolevec",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 331.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.981105,
+          49.752524
+        ]
+      },
+      "properties": {
+        "name": "St\u0159\u00edbro",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 438.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.067369,
+          49.552537
+        ]
+      },
+      "properties": {
+        "name": "Sta\u0148kov",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 362.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.197146,
+          49.212473
+        ]
+      },
+      "properties": {
+        "name": "Hojsova Str\u00e1\u017e",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 866.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.303016,
+          49.39042
+        ]
+      },
+      "properties": {
+        "name": "Klatovy",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 421.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.836344,
+          50.645153
+        ]
+      },
+      "properties": {
+        "name": "Teplice",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 227.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.85617,
+          50.30872
+        ]
+      },
+      "properties": {
+        "name": "Smolnice",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 345.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.54319,
+          50.34147
+        ]
+      },
+      "properties": {
+        "name": "\u017datec",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 210.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.952337,
+          50.124148
+        ]
+      },
+      "properties": {
+        "name": "L\u00e1ny",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 415.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.751748,
+          49.853987
+        ]
+      },
+      "properties": {
+        "name": "Zbiroh, \u0160vab\u00edn",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 476.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8664,
+          49.605
+        ]
+      },
+      "properties": {
+        "name": "Ro\u017emit\u00e1l pod T\u0159em\u0161\u00ednem",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 524.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.022433,
+          49.694602
+        ]
+      },
+      "properties": {
+        "name": "P\u0159\u00edbram",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 555.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.589389,
+          49.486924
+        ]
+      },
+      "properties": {
+        "name": "Nepomuk",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 471.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5897,
+          49.3022
+        ]
+      },
+      "properties": {
+        "name": "Vlkonice",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 493.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8827,
+          49.2546
+        ]
+      },
+      "properties": {
+        "name": "Strakonice, Nov\u00e9 Strakonice",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 404.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.55,
+          49.145556
+        ]
+      },
+      "properties": {
+        "name": "Ka\u0161persk\u00e9 Hory",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 728.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9883,
+          49.0522
+        ]
+      },
+      "properties": {
+        "name": "Husinec",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 483.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.20258,
+          50.75097
+        ]
+      },
+      "properties": {
+        "name": "D\u011b\u010d\u00edn",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 162.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.31347,
+          51.01965
+        ]
+      },
+      "properties": {
+        "name": "Lobendava",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 350.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.45525,
+          51.002722
+        ]
+      },
+      "properties": {
+        "name": "\u0160luknov",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 352.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.937667,
+          50.767361
+        ]
+      },
+      "properties": {
+        "name": "Petrovice, Kr\u00e1sn\u00fd Les",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 631.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.05831,
+          50.62556
+        ]
+      },
+      "properties": {
+        "name": "\u00dast\u00ed nad Labem, Va\u0148ov",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 150.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.08536,
+          50.79683
+        ]
+      },
+      "properties": {
+        "name": "Sn\u011b\u017en\u00edk",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 569.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.289786,
+          50.241923
+        ]
+      },
+      "properties": {
+        "name": "Kralupy nad Vltavou",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 220.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.416923,
+          50.086634
+        ]
+      },
+      "properties": {
+        "name": "Praha, Klementinum",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 190.7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.27585,
+          49.9335
+        ]
+      },
+      "properties": {
+        "name": "Dob\u0159ichovice",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 205.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.037548,
+          49.854272
+        ]
+      },
+      "properties": {
+        "name": "Neum\u011btely",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 322.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.24637,
+          49.63234
+        ]
+      },
+      "properties": {
+        "name": "Kam\u00fdk nad Vltavou",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 280.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.440088,
+          49.631723
+        ]
+      },
+      "properties": {
+        "name": "Nedrahovice, Rudolec",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 348.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4653,
+          49.5169
+        ]
+      },
+      "properties": {
+        "name": "Nad\u011bjkov, V\u011btrov",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 616.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1288047,
+          49.3845275
+        ]
+      },
+      "properties": {
+        "name": "Vr\u00e1\u017e",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 433.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.469444,
+          49.299444
+        ]
+      },
+      "properties": {
+        "name": "Bechyn\u011b",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 409.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.169367,
+          49.119265
+        ]
+      },
+      "properties": {
+        "name": "Chel\u010dice",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 451.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.33935,
+          48.832242
+        ]
+      },
+      "properties": {
+        "name": "\u010cesk\u00fd Krumlov, P\u0159\u00edse\u010dn\u00e1",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 554.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1073211,
+          48.7355761
+        ]
+      },
+      "properties": {
+        "name": "\u010cern\u00e1 v Po\u0161umav\u00ed",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 740.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3141131,
+          48.6177092
+        ]
+      },
+      "properties": {
+        "name": "Vy\u0161\u0161\u00ed Brod",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 559.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.60222,
+          50.90556
+        ]
+      },
+      "properties": {
+        "name": "Varnsdorf",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 367.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.77375,
+          50.77206
+        ]
+      },
+      "properties": {
+        "name": "Jablonn\u00e9 v Podje\u0161t\u011bd\u00ed",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 320.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.541141,
+          50.675373
+        ]
+      },
+      "properties": {
+        "name": "\u010cesk\u00e1 L\u00edpa",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 246.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.981635,
+          50.683677
+        ]
+      },
+      "properties": {
+        "name": "\u010cesk\u00fd Dub, Modlibohov",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 355.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.80739,
+          50.70361
+        ]
+      },
+      "properties": {
+        "name": "Str\u00e1\u017e pod Ralskem",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 310.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.66731,
+          50.56811
+        ]
+      },
+      "properties": {
+        "name": "Doksy",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 284.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.344272,
+          50.819878
+        ]
+      },
+      "properties": {
+        "name": "Ko\u0159enov, Jizerka",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 858.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0036,
+          50.3671
+        ]
+      },
+      "properties": {
+        "name": "Sem\u010dice",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 234.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.520416,
+          50.29582
+        ]
+      },
+      "properties": {
+        "name": "Tuha\u0148",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 160.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.660559,
+          50.189691
+        ]
+      },
+      "properties": {
+        "name": "Brand\u00fds nad Labem-St.B",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 179.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.784964,
+          49.906761
+        ]
+      },
+      "properties": {
+        "name": "Ond\u0159ejov",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 491.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.69668,
+          49.78862
+        ]
+      },
+      "properties": {
+        "name": "Bene\u0161ov",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 343.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.521178,
+          49.818411
+        ]
+      },
+      "properties": {
+        "name": "Netvo\u0159ice",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 365.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.067741,
+          49.902888
+        ]
+      },
+      "properties": {
+        "name": "Vav\u0159inec, \u017d\u00ed\u0161ov",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 415.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.7561,
+          49.4981
+        ]
+      },
+      "properties": {
+        "name": "Hlasivo",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 547.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.702389,
+          49.41
+        ]
+      },
+      "properties": {
+        "name": "T\u00e1bor, M\u011b\u0161ice",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 467.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.9625,
+          49.3575
+        ]
+      },
+      "properties": {
+        "name": "\u010cernovice, Dobe\u0161ov",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 580.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.636825,
+          49.207925
+        ]
+      },
+      "properties": {
+        "name": "Borkovice",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 419.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.7585975,
+          49.0617575
+        ]
+      },
+      "properties": {
+        "name": "T\u0159ebo\u0148, Lu\u017enice",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 428.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.799947,
+          48.816603
+        ]
+      },
+      "properties": {
+        "name": "By\u0148ov",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 475.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.09015,
+          50.91785
+        ]
+      },
+      "properties": {
+        "name": "Fr\u00fddlant",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.02,
+            "min": 0.0,
+            "max": 0.3
+          }
+        },
+        "elevation": 337.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.13708,
+          50.81511
+        ]
+      },
+      "properties": {
+        "name": "Bed\u0159ichov",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 777.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.23381,
+          50.92358
+        ]
+      },
+      "properties": {
+        "name": "Nov\u00e9 M\u011bsto pod Smrkem",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 473.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.319286,
+          50.789354
+        ]
+      },
+      "properties": {
+        "name": "Desn\u00e1, Sou\u0161",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 772.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.420036,
+          50.781746
+        ]
+      },
+      "properties": {
+        "name": "Harrachov",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 675.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.18317,
+          50.88456
+        ]
+      },
+      "properties": {
+        "name": "Hejnice",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 396.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.154434,
+          50.589631
+        ]
+      },
+      "properties": {
+        "name": "Turnov",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 253.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.302136,
+          50.53026
+        ]
+      },
+      "properties": {
+        "name": "Holenice",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 423.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.5810108,
+          50.375735
+        ]
+      },
+      "properties": {
+        "name": "Holovousy",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 321.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.133554,
+          50.140503
+        ]
+      },
+      "properties": {
+        "name": "Pod\u011bbrady",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 189.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.6479,
+          49.844725
+        ]
+      },
+      "properties": {
+        "name": "Se\u010d",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 529.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.368164,
+          50.106526
+        ]
+      },
+      "properties": {
+        "name": "Radovesnice II.",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 227.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.3942797,
+          49.901695
+        ]
+      },
+      "properties": {
+        "name": "\u010c\u00e1slav, Nov\u00e9 m\u011bsto",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 251.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.56668,
+          50.016395
+        ]
+      },
+      "properties": {
+        "name": "Moko\u0161\u00edn",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 255.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.497443,
+          50.237553
+        ]
+      },
+      "properties": {
+        "name": "Nov\u00fd Byd\u017eov",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 232.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.086667,
+          49.721111
+        ]
+      },
+      "properties": {
+        "name": "Hulice",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 375.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.365095,
+          49.385922
+        ]
+      },
+      "properties": {
+        "name": "Nov\u00fd Rychnov",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 619.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.697859,
+          50.735318
+        ]
+      },
+      "properties": {
+        "name": "Lu\u010dn\u00ed bouda",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.02,
+            "min": 0.0,
+            "max": 0.3
+          }
+        },
+        "elevation": 1413.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2340794,
+          49.2605217
+        ]
+      },
+      "properties": {
+        "name": "Po\u010d\u00e1tky",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 618.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.9575,
+          49.1556
+        ]
+      },
+      "properties": {
+        "name": "Jind\u0159ich\u016fv Hradec, D\u011bbol\u00edn",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 524.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.646389,
+          50.622778
+        ]
+      },
+      "properties": {
+        "name": "Vrchlab\u00ed",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 482.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.588567,
+          50.427437
+        ]
+      },
+      "properties": {
+        "name": "L\u00e1zn\u011b B\u011blohrad",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 299.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.544927,
+          50.769883
+        ]
+      },
+      "properties": {
+        "name": "Labsk\u00e1 bouda",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 1320.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.898311,
+          50.558597
+        ]
+      },
+      "properties": {
+        "name": "Trutnov",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 437.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.838452,
+          50.177649
+        ]
+      },
+      "properties": {
+        "name": "Hradec Kr\u00e1lov\u00e9, Nov\u00fd Hradec Kr\u00e1lov\u00e9",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 278.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.787757,
+          50.223004
+        ]
+      },
+      "properties": {
+        "name": "Hradec Kr\u00e1lov\u00e9, Svobodn\u00e9 Dvory",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 240.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.704862,
+          49.744164
+        ]
+      },
+      "properties": {
+        "name": "Libice nad Doubravou",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 425.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.579696,
+          49.61188
+        ]
+      },
+      "properties": {
+        "name": "Havl\u00ed\u010dk\u016fv Brod",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 452.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.96806,
+          49.52306
+        ]
+      },
+      "properties": {
+        "name": "Vat\u00edn",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 558.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4669,
+          49.3931
+        ]
+      },
+      "properties": {
+        "name": "Hubenov",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 570.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.8067,
+          49.0611
+        ]
+      },
+      "properties": {
+        "name": "Moravsk\u00e9 Bud\u011bjovice",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 460.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.45477,
+          50.069195
+        ]
+      },
+      "properties": {
+        "name": "\u017damberk",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 405.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.343617,
+          50.569966
+        ]
+      },
+      "properties": {
+        "name": "Broumov",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 373.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.351959,
+          50.306667
+        ]
+      },
+      "properties": {
+        "name": "De\u0161tn\u00e9 v Orlic. hor\u00e1ch",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 656.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.011618,
+          50.506419
+        ]
+      },
+      "properties": {
+        "name": "\u00dapice",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 413.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.460258,
+          50.164432
+        ]
+      },
+      "properties": {
+        "name": "Rokytnice v Orlic.hor\u00e1ch",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 577.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.832503,
+          50.356612
+        ]
+      },
+      "properties": {
+        "name": "Velichovky",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 299.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.270033,
+          50.164879
+        ]
+      },
+      "properties": {
+        "name": "Rychnov nad Kn\u011b\u017enou",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 335.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.406667,
+          49.824722
+        ]
+      },
+      "properties": {
+        "name": "Gajer, Janov",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 510.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3097,
+          49.6344
+        ]
+      },
+      "properties": {
+        "name": "Nedv\u011bz\u00ed",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 722.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.25401,
+          49.52416
+        ]
+      },
+      "properties": {
+        "name": "Byst\u0159ice nad Pern\u0161tejnem",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 553.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.0086,
+          49.3528
+        ]
+      },
+      "properties": {
+        "name": "Velk\u00e9 Mezi\u0159\u00ed\u010d\u00ed",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 452.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.144155,
+          49.2101581
+        ]
+      },
+      "properties": {
+        "name": "N\u00e1m\u011b\u0161\u0165 nad Oslavou",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 390.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.5074,
+          49.1745
+        ]
+      },
+      "properties": {
+        "name": "Troubsko",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 278.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2925,
+          48.769
+        ]
+      },
+      "properties": {
+        "name": "Dyj\u00e1kovice",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 187.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.0075,
+          50.3956
+        ]
+      },
+      "properties": {
+        "name": "Javorn\u00edk",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 284.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.988889,
+          50.209444
+        ]
+      },
+      "properties": {
+        "name": "Star\u00e9 M\u011bsto pod Sn\u011b\u017en\u00edkem, Paprsek",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 1001.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.9675,
+          49.9742
+        ]
+      },
+      "properties": {
+        "name": "\u0160umperk",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 328.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.9662,
+          49.8269
+        ]
+      },
+      "properties": {
+        "name": "Dubicko",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 282.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.6969,
+          49.8158
+        ]
+      },
+      "properties": {
+        "name": "T\u0159eba\u0159ov",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 375.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.7055,
+          49.6309
+        ]
+      },
+      "properties": {
+        "name": "Jev\u00ed\u010dko",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 362.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.83105,
+          49.47782
+        ]
+      },
+      "properties": {
+        "name": "Protivanov",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 675.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.5677,
+          49.2165
+        ]
+      },
+      "properties": {
+        "name": "Brno, \u017dabov\u0159esky",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 236.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.5283,
+          48.9844
+        ]
+      },
+      "properties": {
+        "name": "Poho\u0159elice",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 180.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8814,
+          48.9394
+        ]
+      },
+      "properties": {
+        "name": "Kobyl\u00ed",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 175.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.798895,
+          48.792616
+        ]
+      },
+      "properties": {
+        "name": "Lednice",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 177.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.5358,
+          48.8733
+        ]
+      },
+      "properties": {
+        "name": "Brod nad Dyj\u00ed",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 177.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.183333,
+          50.231111
+        ]
+      },
+      "properties": {
+        "name": "Jesen\u00edk",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 502.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.306832,
+          50.074053
+        ]
+      },
+      "properties": {
+        "name": "Karlova Stud\u00e1nka",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 795.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.4011,
+          50.0331
+        ]
+      },
+      "properties": {
+        "name": "Sv\u011btl\u00e1 Hora",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 593.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.296111,
+          49.931389
+        ]
+      },
+      "properties": {
+        "name": "R\u00fdma\u0159ov",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 578.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.2345,
+          49.7776
+        ]
+      },
+      "properties": {
+        "name": "Paseka",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 271.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.2844,
+          49.5758
+        ]
+      },
+      "properties": {
+        "name": "Olomouc, Holice",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 210.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.458889,
+          49.464444
+        ]
+      },
+      "properties": {
+        "name": "P\u0159erov",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 210.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.0894,
+          49.3092
+        ]
+      },
+      "properties": {
+        "name": "Ivanovice na Han\u00e9",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 243.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.3653,
+          49.2847
+        ]
+      },
+      "properties": {
+        "name": "Krom\u011b\u0159\u00ed\u017e",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 233.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.4322,
+          49.0917
+        ]
+      },
+      "properties": {
+        "name": "Star\u00e9 M\u011bsto",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 221.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.3381,
+          48.8992
+        ]
+      },
+      "properties": {
+        "name": "Str\u00e1\u017enice",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 176.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.560556,
+          50.154167
+        ]
+      },
+      "properties": {
+        "name": "M\u011bsto Albrechtice, \u017d\u00e1ry",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 498.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.6922,
+          50.078
+        ]
+      },
+      "properties": {
+        "name": "Krnov",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 360.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.878541,
+          49.928847
+        ]
+      },
+      "properties": {
+        "name": "Opava",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 268.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.8042,
+          49.5869
+        ]
+      },
+      "properties": {
+        "name": "B\u011blot\u00edn",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 306.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.757308,
+          49.778037
+        ]
+      },
+      "properties": {
+        "name": "V\u00edtkov",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 490.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.9742,
+          49.4636
+        ]
+      },
+      "properties": {
+        "name": "Vala\u0161sk\u00e9 Mezi\u0159\u00ed\u010d\u00ed",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 334.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.8683,
+          49.3514
+        ]
+      },
+      "properties": {
+        "name": "Ho\u0161\u0165\u00e1lkov\u00e1",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 385.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.6706,
+          49.3964
+        ]
+      },
+      "properties": {
+        "name": "Byst\u0159ice pod Host\u00fdnem",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 314.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.643333,
+          49.236667
+        ]
+      },
+      "properties": {
+        "name": "Zl\u00edn",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 283.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.84361,
+          49.22297
+        ]
+      },
+      "properties": {
+        "name": "Vizovice",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 313.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.7925,
+          49.0842
+        ]
+      },
+      "properties": {
+        "name": "Luha\u010dovice, Kladn\u00e1-\u017dil\u00edn",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 329.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.7086,
+          48.9033
+        ]
+      },
+      "properties": {
+        "name": "Str\u00e1n\u00ed",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 383.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.9711,
+          49.0728
+        ]
+      },
+      "properties": {
+        "name": "\u0160t\u00edtn\u00e1 nad Vl\u00e1\u0159\u00ed - Popov",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 315.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.3692,
+          49.882
+        ]
+      },
+      "properties": {
+        "name": "Bohum\u00edn, Z\u00e1blat\u00ed",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 237.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4425,
+          49.7308
+        ]
+      },
+      "properties": {
+        "name": "Lu\u010dina",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 300.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.240568,
+          49.541055
+        ]
+      },
+      "properties": {
+        "name": "Fren\u0161t\u00e1t pod Radho\u0161t\u011bm",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 436.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.138224,
+          49.461251
+        ]
+      },
+      "properties": {
+        "name": "Ro\u017enov pod Radho\u0161t\u011bm",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 375.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.9961,
+          49.3442
+        ]
+      },
+      "properties": {
+        "name": "Vset\u00edn",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 387.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.1261,
+          49.3
+        ]
+      },
+      "properties": {
+        "name": "Huslenky, Kychov\u00e1",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 450.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.15942,
+          49.825331
+        ]
+      },
+      "properties": {
+        "name": "Ostrava, Poruba",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 240.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.7503,
+          49.5875
+        ]
+      },
+      "properties": {
+        "name": "Jablunkov, N\u00e1vs\u00ed",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 380.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4206592,
+          49.4132897
+        ]
+      },
+      "properties": {
+        "name": "B\u00edl\u00e1, Salajka",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 725.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.2983,
+          49.4311
+        ]
+      },
+      "properties": {
+        "name": "Horn\u00ed Be\u010dva",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 565.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5332,
+          49.8549
+        ]
+      },
+      "properties": {
+        "name": "Karvin\u00e1",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 224.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.6125,
+          49.6975
+        ]
+      },
+      "properties": {
+        "name": "Ropice",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 327.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.057778,
+          49.5414
+        ]
+      },
+      "properties": {
+        "name": "Mo\u0159kov",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 345.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.949444,
+          49.690556
+        ]
+      },
+      "properties": {
+        "name": "Hladk\u00e9 \u017divotice",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 256.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.24341,
+          49.787786
+        ]
+      },
+      "properties": {
+        "name": "Ostrava, Z\u00e1b\u0159eh",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 238.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.4510033,
+          50.0936408
+        ]
+      },
+      "properties": {
+        "name": "Karlovice",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 467.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.558457,
+          50.037435
+        ]
+      },
+      "properties": {
+        "name": "Nov\u00e9 He\u0159minovy",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 395.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.633611,
+          50.011111
+        ]
+      },
+      "properties": {
+        "name": "Lichnov",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 389.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.41431,
+          49.8691
+        ]
+      },
+      "properties": {
+        "name": "Lomnice",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 594.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.575278,
+          49.888611
+        ]
+      },
+      "properties": {
+        "name": "Slezsk\u00e1 Harta",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 516.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.32057,
+          49.7012208
+        ]
+      },
+      "properties": {
+        "name": "Fr\u00fddek-M\u00edstek, Sviadnov",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 270.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.317553,
+          49.844977
+        ]
+      },
+      "properties": {
+        "name": "Ostrava, Slezsk\u00e1 Ostrava",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 269.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.637779,
+          49.534088
+        ]
+      },
+      "properties": {
+        "name": "Horn\u00ed Lomn\u00e1",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 582.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.788599,
+          49.616676
+        ]
+      },
+      "properties": {
+        "name": "N\u00fddek, Filipka",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 745.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.119769,
+          49.991679
+        ]
+      },
+      "properties": {
+        "name": "Chucheln\u00e1",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 258.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.7135,
+          50.2709
+        ]
+      },
+      "properties": {
+        "name": "Osoblaha",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 238.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.3926,
+          50.252778
+        ]
+      },
+      "properties": {
+        "name": "Zlat\u00e9 Hory",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 444.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.361634,
+          50.525216
+        ]
+      },
+      "properties": {
+        "name": "Bo\u017eanov",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 426.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.984708,
+          50.332069
+        ]
+      },
+      "properties": {
+        "name": "Uheln\u00e1, Nov\u00e9 Vil\u00e9movice",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 615.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.1917,
+          50.37794
+        ]
+      },
+      "properties": {
+        "name": "Vidnava",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 228.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.154264,
+          50.125009
+        ]
+      },
+      "properties": {
+        "name": "B\u011bl\u00e1 pod Prad\u011bdem, \u010cervenohorsk\u00e9 sedlo",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 1010.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.17959,
+          50.72922
+        ]
+      },
+      "properties": {
+        "name": "Jablonec nad Nisou",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 495.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.95861,
+          50.81872
+        ]
+      },
+      "properties": {
+        "name": "Chrastava",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 314.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.87175,
+          50.83897
+        ]
+      },
+      "properties": {
+        "name": "Chotyn\u011b",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 260.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.27318,
+          50.84452
+        ]
+      },
+      "properties": {
+        "name": "B\u00edl\u00fd Potok, Sm\u011bdava",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 834.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.01814,
+          50.96594
+        ]
+      },
+      "properties": {
+        "name": "Vi\u0161\u0148ov\u00e1",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 248.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.581084,
+          49.583431
+        ]
+      },
+      "properties": {
+        "name": "\u017delezn\u00e1",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 511.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.215816,
+          49.169506
+        ]
+      },
+      "properties": {
+        "name": "\u0160pi\u010d\u00e1k",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 973.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.228729,
+          49.138245
+        ]
+      },
+      "properties": {
+        "name": "\u017delezn\u00e1 Ruda",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 754.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.857804,
+          49.367941
+        ]
+      },
+      "properties": {
+        "name": "\u010cesk\u00e1 Kubice",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 549.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.832543,
+          50.150637
+        ]
+      },
+      "properties": {
+        "name": "Doln\u00ed Morava, Slam\u011bnka",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 1105.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.0129,
+          50.1324
+        ]
+      },
+      "properties": {
+        "name": "Brann\u00e1, Franti\u0161kov",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 548.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.940556,
+          50.0819
+        ]
+      },
+      "properties": {
+        "name": "Hanu\u0161ovice",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 432.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.1794408,
+          50.0854114
+        ]
+      },
+      "properties": {
+        "name": "Dlouh\u00e9 Str\u00e1n\u011b, Kouty nad Desnou",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 765.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.051365,
+          50.038056
+        ]
+      },
+      "properties": {
+        "name": "Velk\u00e9 Losiny",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 411.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.625,
+          49.9028
+        ]
+      },
+      "properties": {
+        "name": "Lan\u0161kroun",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 362.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.742859,
+          50.04034
+        ]
+      },
+      "properties": {
+        "name": "\u010cerven\u00e1 Voda",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 535.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.764343,
+          49.956566
+        ]
+      },
+      "properties": {
+        "name": "\u0160t\u00edty",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 432.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.7688722,
+          49.875125
+        ]
+      },
+      "properties": {
+        "name": "Ho\u0161tejn",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 305.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.134781,
+          49.90482
+        ]
+      },
+      "properties": {
+        "name": "Oskava",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 360.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.275988,
+          49.717754
+        ]
+      },
+      "properties": {
+        "name": "\u0160ternberk",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 247.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.286944,
+          49.359444
+        ]
+      },
+      "properties": {
+        "name": "Velk\u00e9 Karlovice",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 518.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.126944,
+          49.240278
+        ]
+      },
+      "properties": {
+        "name": "Vala\u0161sk\u00e1 Senice",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 615.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.873311,
+          49.400762
+        ]
+      },
+      "properties": {
+        "name": "Kate\u0159inice, Oji\u010dn\u00e1",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 585.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.106298,
+          49.416432
+        ]
+      },
+      "properties": {
+        "name": "Vala\u0161sk\u00e1 Byst\u0159ice",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 458.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.6142,
+          49.6238
+        ]
+      },
+      "properties": {
+        "name": "Pot\u0161t\u00e1t, Bo\u0161kov",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 545.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.003611,
+          49.369444
+        ]
+      },
+      "properties": {
+        "name": "Podivice",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 375.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.2944,
+          49.3527
+        ]
+      },
+      "properties": {
+        "name": "Kojet\u00edn",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 203.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.586111,
+          49.424444
+        ]
+      },
+      "properties": {
+        "name": "D\u0159evohostice",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 238.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.81,
+          49.0402
+        ]
+      },
+      "properties": {
+        "name": "Bojkovice",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 310.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.8033,
+          49.155
+        ]
+      },
+      "properties": {
+        "name": "Horn\u00ed Lhota",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 348.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.538,
+          48.9863
+        ]
+      },
+      "properties": {
+        "name": "Hluk",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 225.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.322222,
+          49.073333
+        ]
+      },
+      "properties": {
+        "name": "\u010cesk\u00fd Rudolec",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 520.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.59,
+          49.025
+        ]
+      },
+      "properties": {
+        "name": "Jemnice",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 502.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.020556,
+          48.789167
+        ]
+      },
+      "properties": {
+        "name": "\u0160atov",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 238.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9828,
+          48.9934
+        ]
+      },
+      "properties": {
+        "name": "St\u0159elice",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 325.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2084664,
+          49.0022497
+        ]
+      },
+      "properties": {
+        "name": "D\u017eb\u00e1nice",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 337.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.269167,
+          49.716111
+        ]
+      },
+      "properties": {
+        "name": "Poli\u010dka",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 552.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.07777778,
+          49.6351314
+        ]
+      },
+      "properties": {
+        "name": "Kadov",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 672.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4166,
+          49.5586
+        ]
+      },
+      "properties": {
+        "name": "Ole\u0161nice",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 543.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.0689,
+          49.5581
+        ]
+      },
+      "properties": {
+        "name": "Nov\u00e9 M\u011bsto na Morav\u011b",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 601.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4725,
+          49.3731
+        ]
+      },
+      "properties": {
+        "name": "Ti\u0161nov, H\u00e1jek",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 409.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.221,
+          49.2918
+        ]
+      },
+      "properties": {
+        "name": "Velk\u00e1 B\u00edte\u0161",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 485.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4875,
+          49.7311
+        ]
+      },
+      "properties": {
+        "name": "Hradec nad Svitavou",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 446.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.603611,
+          49.451667
+        ]
+      },
+      "properties": {
+        "name": "Obora",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 425.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.1361,
+          49.1808
+        ]
+      },
+      "properties": {
+        "name": "Nemochovice",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 283.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.798889,
+          49.296944
+        ]
+      },
+      "properties": {
+        "name": "Bukovinka",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 511.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.476111,
+          49.293889
+        ]
+      },
+      "properties": {
+        "name": "T\u0159e\u0161\u0165",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 574.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.6164,
+          49.4064
+        ]
+      },
+      "properties": {
+        "name": "Jihlava, Hru\u0161kov\u00e9 Dvory",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 468.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.7303,
+          49.3931
+        ]
+      },
+      "properties": {
+        "name": "Vysok\u00e9 Studnice",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 568.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.6753,
+          49.3069
+        ]
+      },
+      "properties": {
+        "name": "Brtnice",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 517.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.7869,
+          49.2547
+        ]
+      },
+      "properties": {
+        "name": "Nov\u00e1 Ves",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 422.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9675,
+          49.460278
+        ]
+      },
+      "properties": {
+        "name": "Radost\u00edn",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 512.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.025556,
+          49.071944
+        ]
+      },
+      "properties": {
+        "name": "\u017dd\u00e1nice",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 238.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.2883,
+          49.1372
+        ]
+      },
+      "properties": {
+        "name": "Star\u00e9 Hut\u011b",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 427.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.015,
+          49.139167
+        ]
+      },
+      "properties": {
+        "name": "Vala\u0161sk\u00e9 Klobouky",
+        "aggregated": {
+          "SRA": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+          }
+        },
+        "elevation": 402.0
+      }
+    }
+  ]
+}
