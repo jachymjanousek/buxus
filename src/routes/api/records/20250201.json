@@ -5396,7 +5396,6 @@
       },
       "properties": {
         "name": "Hlasivo",
-        "risk": 1,
         "aggregated": {
           "SRA": {
             "avg": 0.0,
@@ -5418,7 +5417,6 @@
       },
       "properties": {
         "name": "T\u00e1bor, M\u011b\u0161ice",
-        "risk": 2,
         "aggregated": {
           "SRA": {
             "avg": 0.0,
@@ -5440,7 +5438,6 @@
       },
       "properties": {
         "name": "\u010cernovice, Dobe\u0161ov",
-        "risk": 3,
         "aggregated": {
           "SRA": {
             "avg": 0.0,
