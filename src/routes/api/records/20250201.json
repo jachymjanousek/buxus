@@ -20,6 +20,7 @@
       },
       "properties": {
         "name": "Cheb",
+        "risk": 1,
         "aggregated": {
           "SRA": {
             "avg": 0.0,
@@ -41,6 +42,7 @@
       },
       "properties": {
         "name": "Karlovy Vary, Ol\u0161ov\u00e1 Vrata",
+        "risk": 2,
         "aggregated": {
           "SRA": {
             "avg": 0.0,
@@ -62,6 +64,7 @@
       },
       "properties": {
         "name": "P\u0159imda",
+        "risk": 3,
         "aggregated": {
           "SRA": {
             "avg": 0.0,
