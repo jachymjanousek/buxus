@@ -110,6 +110,43 @@
 
 	<p>Stupnice pro vyhodnocení rizika je stanovena na základě laboratorních testů (Bartíková, 2020; Avenot et al. 2021 a Avenot et al. 2022) a zohledňuje optimální teploty pro vývoj patogena a dlouhodobé ovlhčení listů (min. 6 h).</p>
 
+	<table class="w-full border border-gray-300 max-w-fit">
+		<thead>
+			<tr>
+				<th class="border px-4 py-2">TEPLOTA (°C)</th>
+				<th class="border px-4 py-2">RIZIKO</th>
+				<th class="border px-4 py-2">BAREVNÉ OZNAČENÍ</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td class="border px-4 py-2">&lt; 14,9 °C</td>
+				<td class="border px-4 py-2">velmi nízké</td>
+				<td class="border px-4 py-2 flex items-center"><span class="w-3 h-3 rounded-full bg-[#ffffb2] mr-2"></span>žlutá</td>
+			</tr>
+			<tr>
+				<td class="border px-4 py-2">15–19,9 °C</td>
+				<td class="border px-4 py-2">střední</td>
+				<td class="border px-4 py-2 flex items-center"><span class="w-3 h-3 rounded-full bg-[#fd8d3c] mr-2"></span>oranžová</td>
+			</tr>
+			<tr>
+				<td class="border px-4 py-2">20–24 °C</td>
+				<td class="border px-4 py-2">vysoké</td>
+				<td class="border px-4 py-2 flex items-center"><span class="w-3 h-3 rounded-full bg-[#e31a1c] mr-2"></span>červená</td>
+			</tr>
+			<tr>
+				<td class="border px-4 py-2">24,1–28 °C</td>
+				<td class="border px-4 py-2">střední</td>
+				<td class="border px-4 py-2 flex items-center"><span class="w-3 h-3 rounded-full bg-[#fd8d3c] mr-2"></span>oranžová</td>
+			</tr>
+			<tr>
+				<td class="border px-4 py-2">&gt; 28,1 °C</td>
+				<td class="border px-4 py-2">velmi nízké</td>
+				<td class="border px-4 py-2 flex items-center"><span class="w-3 h-3 rounded-full bg-[#ffffb2] mr-2"></span>žlutá</td>
+			</tr>
+		</tbody>
+	</table>
+
 	<p>K zobrazení dat z jednotlivých meteostanic je využit kartogram (choropleth).<br />Jednotkou zeměpisné oblasti je obec.</p>
 
 	<form class="grid grid-cols-1 justify-stretch gap-4 flex-wrap align-stretch">
