@@ -2,4 +2,9 @@
 
 html {
     background-color: #1a202c;
+    color: #e2e8f0;
+}
+ p, span, li {
+    color: #e2e8f0;
+    max-width: 80ch;
 }
