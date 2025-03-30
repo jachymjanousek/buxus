@@ -24,7 +24,7 @@ export async function GET({ url }) {
 
     return json(data);
   } catch (error) {
-    console.error("Error fetching data:", error);
+    console.error("Error fetching data:", JSON.stringify(error));
     return json({ error: error }, { status: 500 });
   }
 }
