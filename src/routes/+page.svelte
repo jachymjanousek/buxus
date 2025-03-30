@@ -12,7 +12,11 @@
 
     let searchParam = $page.url.searchParams.get("q") ?? "";
 
-    let date = $state("2025-02-01");
+    let today = new Date();
+    let yesterday = new Date()
+    yesterday.setDate(today.getDate() - 1);
+    let yesterdayISO = yesterday.toISOString().split("T")[0];
+    let date = $state(yesterdayISO);
     let map = $state.raw();
     let zoom = $state(6.5);
     let center = $state([15.4749126, 49.8037633]);
@@ -226,20 +230,15 @@
     <form
         class="grid grid-cols-1 justify-stretch gap-4 flex-wrap align-stretch"
     >
-        <div class="flex flex-1 gap-4 grow flex-wrap items-center">
+        <div class="switcher gap-2" style="--threshold:30rem;">
             <button
                 type="submit"
-                class="[ md:flex-nowrap md:flex-auto ] text-white bg-black hover:bg-neutral-800 focus:ring-4 focus:outline-none focus:ring-neutral-300 font-medium rounded-lg text-sm px-4 py-2"
+                class="text-white bg-black hover:bg-neutral-800 focus:ring-4 focus:outline-none focus:ring-neutral-300 font-medium rounded-lg text-sm px-4 py-2 "
                 onclick={prevDay}>Předchozí den</button
-            >
-            <label
-                for="date"
-                class="mb-2 text-sm font-medium text-gray-900 sr-only"
-                >Datum</label
             >
             <div class="relative flex-1">
                 <div
-                    class="absolute inset-y-0 start-0 flex items-center ps-3 pointer-events-none"
+                    class="absolute inset-y-0 start-0 flex items-center ps-3 pointer-events-none min-w-6/12"
                 >
                     <svg
                         class="w-4 h-4 text-gray-500"
@@ -260,12 +259,13 @@
                 <input
                     type="date"
                     id="date"
-                    class="block w-full p-4 ps-10 text-sm text-gray-900 rounded-lg border border-black"
+                    class="block w-full p-4 ps-10 text-sm text-gray-900 rounded-lg border border-black flex-6/12"
                     placeholder="YYYY-MM-DD"
                     datepicker-format
                     aria-label="Načíst data"
                     required
                     bind:value={date}
+                    max={yesterdayISO}
                 />
                 <button
                     type="submit"
@@ -275,7 +275,9 @@
             </div>
             <button
                 type="submit"
-                class="text-white bg-black hover:bg-neutral-800 focus:ring-4 focus:outline-none focus:ring-neutral-300 font-medium rounded-lg text-sm px-4 py-2"
+                class="text-white bg-black hover:bg-neutral-800 focus:ring-4 focus:outline-none focus:ring-neutral-300 font-medium rounded-lg text-sm px-4 py-2
+                disabled:opacity-50 cursor-not-allowed"
+                disabled={date == yesterdayISO}
                 onclick={nextDay}>Další den</button
             >
         </div>
