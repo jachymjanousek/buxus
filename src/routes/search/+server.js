@@ -9,20 +9,18 @@ export async function GET({ url }) {
 
     const searchUrl = "http://nominatim.openstreetmap.org/search";
     const requestUrl = `${searchUrl}?countrycodes=CZ&format=json&q=${search}`;
-    console.log(requestUrl);
 
     const headers = new Headers();
     headers.append("Accept", "application/json");
     headers.append("Content-Type", "application/json");
+    headers.append("User-Agent", "zdravybuxus.com (janousekjachym@gmail.com");
+
     const response = await fetch(requestUrl, {
       method: "GET",
       headers,
     });
 
     const { result, contentType } = await processResponse(response);
-
-    console.log(`Content-Type: ${contentType}`);
-    console.log(result);
 
     return json(result);
   } catch (error) {
@@ -36,7 +34,7 @@ async function processResponse(response) {
   const { headers } = response;
   const contentType = headers.get("content-type") || "";
   if (contentType.includes("application/json")) {
-    return { contentType, result: JSON.stringify(await response.json()) };
+    return { contentType, result: await response.json() };
   }
   return { contentType, result: response.text() };
 }
