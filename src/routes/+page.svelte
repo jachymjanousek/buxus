@@ -23,7 +23,7 @@
 
     let search = $state(searchParam);
     let searchSuggestions = $state([]);
-    searchLocation(searchParam);
+    if(searchParam?.length > 0) searchLocation(searchParam);
 
     const weatherData = [
         {
