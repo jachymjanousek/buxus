@@ -170,6 +170,10 @@
         );
         const data = await response.json();
         console.log(data);
+        if (data.length == 0) {
+            console.log("No results found");
+            return;
+        }
         parseSearchSuggestions(data);
         if (searchSuggestions.length == 1) {
             search = searchSuggestions[0].name;
