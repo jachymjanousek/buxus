@@ -230,13 +230,13 @@
     <form
         class="grid grid-cols-1 justify-stretch gap-4 flex-wrap align-stretch"
     >
-        <div class="switcher gap-2" style="--threshold:30rem;">
+        <div class="flex gap-2 flex-wrap switcher" style="--threshold:30rem;">
             <button
                 type="submit"
-                class="text-white bg-black hover:bg-neutral-800 focus:ring-4 focus:outline-none focus:ring-neutral-300 font-medium rounded-lg text-sm px-4 py-2 "
+                class="text-white bg-black hover:bg-neutral-800 focus:ring-4 focus:outline-none focus:ring-neutral-300 font-medium rounded-lg text-sm px-4 py-2"
                 onclick={prevDay}>Předchozí den</button
             >
-            <div class="relative flex-1">
+            <div class="relative flex-1 !grow-4">
                 <div
                     class="absolute inset-y-0 start-0 flex items-center ps-3 pointer-events-none min-w-6/12"
                 >
@@ -259,7 +259,7 @@
                 <input
                     type="date"
                     id="date"
-                    class="block w-full p-4 ps-10 text-sm text-gray-900 rounded-lg border border-black flex-6/12"
+                    class="block w-full p-4 ps-10 text-sm text-gray-900 rounded-lg border border-black"
                     placeholder="YYYY-MM-DD"
                     datepicker-format
                     aria-label="Načíst data"
