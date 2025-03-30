@@ -21,3 +21,12 @@ Thumbs.db
 # Vite
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
+
+# Svelte
+.svelte-kit
+.svelte-kit
+
+# npm
+package-lock.json
+npm-debug.log*
+node_modules
